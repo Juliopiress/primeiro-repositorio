@@ -1,8 +1,9 @@
 # primeiro repositorio
  criando meu primeiro repositorio publico
-testando ve se da certo vamos ve se da
+
+Vou estar postando alguns projetos pessoais de minha altoria e os que foram passados no meu curso de programador de sistemas ♥
 
 
-sim deu certo e estou muito feliz ♥♥♥
+
 
 
